@@ -1,1 +1,1 @@
-# js-50days
+# js mini projects
